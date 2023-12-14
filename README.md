@@ -27,6 +27,11 @@ This repository contains the prototype design for a Sexual Harassment Prevention
 
 4. **Contributions:**
    - Contributions to enhance the design or address issues are welcome. Fork the repository, make changes, and submit a pull request.
+     
+## Figma Links
+- File : https://www.figma.com/file/dPqqiEqybqwwItRY4Pno0q/Project-HCI-Kel-2?type=design&node-id=0-1&mode=design&t=PEd6FmuDxIZiWO0J-0
+- Prototype : https://www.figma.com/proto/dPqqiEqybqwwItRY4Pno0q/Project-HCI-Kel-2?type=design&node-id=82-136&t=PEd6FmuDxIZiWO0J-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=486%3A2464
 
+  
 Feel free to contribute or raise issues for improvements!
 
